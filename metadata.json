@@ -1,0 +1,8 @@
+{
+  "name": "FixGenie – AI Repair Companion",
+  "description": "Diagnose home and auto issues instantly with AI, get DIY guides, or find a professional.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
