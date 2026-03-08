@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# FIX-genie – Engineers On-Demand 🔧
 
-This contains everything you need to run your app locally.
+**Overview**
+FIX-genie is a professional on-demand engineering and maintenance platform. It connects users with certified engineers and technicians for quick repairs and maintenance services across various domains. The platform is designed for seamless booking, tracking, and service management.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Z5JDSJykwKqmS-bDdoCOm1Ejfd6aCWQm
+**Features**
 
-## Run Locally
+**For Users:**
 
-**Prerequisites:**  Node.js
+* Request engineers or technicians for specific repair or maintenance tasks.
+* Track service status and schedule appointments.
+* Rate and review completed services.
+* Receive notifications and updates about assigned engineers.
+
+**For Engineers:**
+
+* Accept or reject service requests.
+* Manage work schedules and track ongoing tasks.
+* Update task status and communicate with users.
+
+**For Admins:**
+
+* Manage users and engineers.
+* Oversee all service requests and assign engineers.
+* View analytics for performance, task completion, and ratings.
+* Handle system settings, logs, and backups.
+
+**Tech Stack:**
+
+* Modular & Scalable architecture for easy maintenance
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+
+
+
